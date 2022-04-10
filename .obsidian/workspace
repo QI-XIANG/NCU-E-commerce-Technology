@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "電商技術HW3/簡述分享經濟.md",
-            "mode": "source"
+            "file": "電商技術HW4/ECT_HW4_108403523.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "電商技術HW3/簡述分享經濟.md",
+                "file": "電商技術HW4/ECT_HW4_108403523.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "666edad2ac43ccc1",
   "lastOpenFiles": [
+    "電商技術HW4/ECT_HW4_108403523.md",
     "電商技術HW3/簡述分享經濟.md",
     "電商技術HW3/ECT_HW3_108403523.md"
   ]
